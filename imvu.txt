@@ -1,8 +1,4 @@
 Something in master
-<<<<<<< HEAD
 
 We have added new hot fixes now
 Adding more in featurex
-=======
-Adding more in featurex
->>>>>>> d022692c8c69cc4c64895071e8abc80e35f09b56
