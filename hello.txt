@@ -5,3 +5,5 @@ Adding new line from secondbranch
 
 Yay.. This is in featureX now
 Adding new in featureX
+
+Adding a new hotfix
