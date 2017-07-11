@@ -4,3 +4,4 @@ Adding new line from newbranch
 Adding new line from secondbranch
 
 Yay.. This is in featureX now
+Adding new in featureX
