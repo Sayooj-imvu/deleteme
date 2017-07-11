@@ -3,3 +3,8 @@ This is on hotfix
 Adding new line from newbranch
 Adding new line from secondbranch
 This is in hot fix now
+
+Yay.. This is in featureX now
+Adding new in featureX
+
+Adding a new hotfix
