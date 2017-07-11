@@ -2,3 +2,4 @@ This is in master now
 This is on hotfix
 Adding new line from newbranch
 Adding new line from secondbranch
+This is in hot fix now
